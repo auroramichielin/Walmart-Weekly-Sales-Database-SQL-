@@ -2,7 +2,6 @@
 
 By Aurora Michielin
 
-Video overview: <URL HERE>
 
 ## Scope
 The main purpose of this database is to organize and, consequently, be able to analyze Walmart's weekly store sales (https://www.kaggle.com/datasets/yasserh/walmart-dataset) together with the economic and environmental conditions associated with each week.
